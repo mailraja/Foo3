@@ -1,0 +1,82 @@
+Month 1:
+Chase PYB Reconciliation (Windows Console job) 
+Kount Fraud DB Processor  (Windows Service)
+Manual Upgrade Processor (Windows Service)
+Auto Void Waitlist Processor (Windows Service)
+Skipped Event Processor (Windows Service)
+Customer 360 (UI) - MVC
+
+Month 2:
+MPX Settlement Processor (Windows Console job) 
+FMS Admin - NGRP Admin (Web Application)
+FMS Admin - Upgrade Admin  (Web Application)
+FMS - Mile and Money Admin  (Web Application)
+Loyalty Bank Jobs
+Service UI Event Processor (Windows Service)
+
+Month 3:
+MPRD Application  (Windows Service)
+LMX Batch Processing   (Windows Service)
+UCB Offhost processor
+Error Queue Processor (Windows Service)
+Report Job (Windows Console Job)
+Chase Rebate Processor (Windows Service)
+
+
+Month 4:
+Retry Processor (Windows Service)
+UCB Bonus Deposit Processor (??)
+Manual Refund Process (Windows Service)
+Promotion Batch  Processing
+Partner Gateway 
+Partner Gateway Admin Cloud
+
+Month 5:
+Scheduled Report Generator (Windows Service)
+Loyalty PAIHUB (Retro) Cloud
+LoyaltyCobrand (API)
+STARNET - Star Alliance Upgrade Award Cloud
+Loyalty PCDHUB
+==========================================
+
+
+Month 1:
+1	Chase PYB Reconciliation (Windows Console job) 
+5	Kount Fraud DB Processor  (Windows Service)
+8a	Manual Upgrade Processor (Windows Service)
+8b	Auto Void Waitlist Processor (Windows Service)
+8c	Skipped Event Processor (Windows Service)
+17	Customer 360 (UI) - MVC
+
+Month 2:
+2	MPX Settlement Processor (Windows Console job) 
+6a	FMS Admin - NGRP Admin (Web Application)
+6b	FMS Admin - Upgrade Admin  (Web Application)
+6c	FMS - Mile and Money Admin  (Web Application)
+7	Loyalty Bank Jobs
+9	Service UI Event Processor (Windows Service)
+
+Month 3:
+3	MPRD Application  (Windows Service)
+4	LMX Batch Processing   (Windows Service)
+8	UCB Offhost processor
+8d	Error Queue Processor (Windows Service)
+8e	Report Job (Windows Console Job)
+8f	Chase Rebate Processor (Windows Service)
+
+
+Month 4:
+8g	Retry Processor (Windows Service)
+8h	UCB Bonus Deposit Processor (??)
+12	Promotion Batch  Processing
+13	Partner Gateway 
+14	Partner Gateway Admin Cloud
+
+
+Month 5:
+10	Manual Refund Process (Windows Service)
+11	Scheduled Report Generator (Windows Service)
+15	Loyalty PAIHUB (Retro) Cloud
+16	LoyaltyCobrand (API)
+18	STARNET - Star Alliance Upgrade Award Cloud
+19	Loyalty PCDHUB
